@@ -24,7 +24,6 @@ function tambah(nama, harga) {
 }
 
     tampilkanKeranjang();
-}
 
 function ubahJumlah(index, perubahan) {
     keranjang[index].jumlah += perubahan;
